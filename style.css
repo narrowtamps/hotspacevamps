@@ -26,7 +26,7 @@ body:before, body:after {
   width: 94vmin;
   top: 15vmin;
   text-align: left;
-  color: #0e2b25;
+  color: #52182a;
   font-family: 'Creepster', cursive;
   white-space: pre-wrap;
   box-sizing: border-box;
@@ -38,7 +38,7 @@ body:before, body:after {
 }
 
 body:after {
-  content: "coming to a stream near you       June 2026";
+  content: "coming to a stream near you...      June 2026";
   top: 27vmin;
   font-size: 3.15vmin;
   padding-left: 4vmin;
