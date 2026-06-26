@@ -32,13 +32,13 @@ body:before, body:after {
   box-sizing: border-box;
   transform: rotatey(45deg) skewY(-13deg);
   z-index: 1;
-  content: "NOSFERATU";
+  content: "Hot(??) SPACE VAMPS";
   font-size: 12vmin;
   padding-left: 3vmin;
 }
 
 body:after {
-  content: "A Symphony of Horror        1922 - 2022";
+  content: "coming to a stream near you       June 2026";
   top: 27vmin;
   font-size: 3.15vmin;
   padding-left: 4vmin;
