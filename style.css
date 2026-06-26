@@ -38,7 +38,7 @@ body:before, body:after {
 }
 
 body:after {
-  content: "coming to a stream near you...      June 2026";
+  content: "coming to a stream near you... June 2026";
   top: 27vmin;
   font-size: 3.15vmin;
   padding-left: 4vmin;
@@ -149,7 +149,7 @@ body:after {
   background: 
     linear-gradient(89.5deg, #fff0 0 19.5vmin, #153f35 calc(19.5vmin + 1px) 100%), 
     linear-gradient(90.5deg, #fff0 0 11.5vmin, #0c2620 calc(11.5vmin + 1px) 100%),
-    linear-gradient(90deg, #1c4c3f calc(1.5vmin + 1px) 100%);
+    linear-gradient(90deg, #4c2d1c calc(1.5vmin + 1px) 100%);
 }
 
 .door {
