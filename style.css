@@ -62,7 +62,7 @@ body:after {
 .left {
   width: 75.15vmin;
   height: 73.5vmin;
-  background: #732bcc;
+  background: #2a7362;
   left: 0;
   overflow: hidden;
   -webkit-clip-path: polygon(0 0, 99.85% 0%, 97.75% 100%, 0% 100%);
